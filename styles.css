@@ -1,0 +1,46 @@
+html {
+    font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+    background-color: rgba(0, 0, 0, 0.623);
+}
+
+.foto {
+    height: 200px;
+    width: 200px;
+}
+
+.foto1 {
+    text-align: center;
+}
+
+.th1,
+.p1,
+.th3,
+menu {
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+
+.nav-cv {
+    background-color: rgba(106, 23, 241, 0.972)
+}
+
+.firstNav {
+    display: flex;
+    /* display flex y justify van juntos*/
+    justify-content: space-around;
+    /*justify-content: space-around;*/
+    border: dotted .1em rgb(8, 246, 246);
+}
+
+.firstNav a {
+    color: rgb(248, 237, 239);
+    text-decoration: done;
+    font-size: 16px;
+    padding: 10px;
+}
+
+.firstNav a:hover {
+    background-color: rgba(173, 80, 215, 0.629);
+    color: rgb(65, 220, 225);
+    font-size: 16px;
+}
