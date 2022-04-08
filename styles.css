@@ -29,7 +29,8 @@ menu {
     /* display flex y justify van juntos*/
     justify-content: space-around;
     /*justify-content: space-around;*/
-    border: dotted .1em rgb(8, 246, 246);
+    border: dotted .2em rgb(8, 246, 246);
+    border-radius: 1em;
 }
 
 .firstNav a {
